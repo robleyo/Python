@@ -8,3 +8,4 @@ bucket = resource.create_bucket(
     Bucket=bucket_name,
     CreateBucketConfiguration=location)
 print("S3 bucket created")
+
